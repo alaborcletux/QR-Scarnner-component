@@ -1,0 +1,40 @@
+body {
+     background-color: rgb(221, 219, 219);
+     margin: 0;
+     padding: 0;
+     text-align: center;
+}
+main {
+     background-color: white;
+     width: 15rem;
+     margin: 1rem auto;
+     border-radius: 10px;
+     overflow: hidden;
+     padding: 1rem 1.2rem;
+}
+.qr-code {
+     background-color: rgb(0, 173, 253);
+     border-radius: 10px;
+     width: 15rem;
+     margin: 0 auto;
+     padding-top: 40px;
+     padding-bottom: 40px;
+     box-sizing: border-box;
+}
+.qr-code img {
+     width: 10rem;
+     height: 10rem;
+     box-sizing: border-box;
+}
+main h1 {
+     font-family: 'Playwrite DE Grund', cursive;
+     font-size: 1.2rem;
+     font-weight: bold;
+     color: rgb(7, 30, 41);
+     margin: 1rem 0;
+}
+main p {
+     font-size: 0.9rem;
+     color: rgb(94, 95, 95);
+     margin: 1rem 0;
+}
